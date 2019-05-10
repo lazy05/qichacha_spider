@@ -2,9 +2,9 @@
 # __*__ coding: utf-8 __*__
 """
 __author__: lazy
-@file: 
+@file: cookie.py
 @time: 2019/4/2 14:26
-@func:
+@func:通过selenium获取cookie
 """
 from bwjf_scrapy.util.webdriver_util import WebdriverUtil
 from redis.sentinel import Sentinel
