@@ -2,7 +2,7 @@
 # __*__ coding: utf-8 __*__
 
 """ 
-__author__: Xiongkai
+__author__: lazy
 @file: MongoPipeline.py
 @time: 2019/02/18
 @func: define your functions
