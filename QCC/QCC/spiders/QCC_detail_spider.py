@@ -2,9 +2,9 @@
 # __*__ coding: utf-8 __*__
 """
 __author__: lazy
-@file: 
+@file: QCC_detail_spider.py
 @time: 2019/4/19 13:57
-@func:
+@func:通过企业详情链接获取企业信息
 """
 import datetime
 import re,scrapy
